@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-image: url(sources/fundal-de-crăciun-fond-cu-bile-decorative-colorate-11746747.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    line-height: 170%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+}
+
+p {
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.centered {
+    text-align: center;
+}
